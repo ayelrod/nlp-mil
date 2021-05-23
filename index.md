@@ -1,4 +1,7 @@
 ## Preface
+
+[Code](https://github.com/ayelrod/nlp-mil)
+
 This project was part of [Lodewijk Brand's](http://minds.mines.edu/people/lou/) (Lou) research project that I assisted with for a few months. I got this opportunity to assist Lou's work through the [Google Hidden Talents](https://cs.mines.edu/hiddentalents/) program at the Colorado School of Mines.
 
 ## About The Project
